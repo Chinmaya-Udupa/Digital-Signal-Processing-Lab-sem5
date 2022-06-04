@@ -1,0 +1,11 @@
+Lab1 - Matlab Basics
+Lab2 - DSP and Matlab Basics
+Lab3 - More DSP Basics and audio file handling
+Lab4 - Verifying propeties of Discrete Fourier Transform
+Lab5 - Spectral Analysis of different n-point DFTs
+Lab6 - LTI Systems and Group Delay Analysis
+Lab7 - LTI Systems and Group Delay Analysis part 2
+Lab8 - IIR and FIR Filters
+Lab9 - More Filters and Hilbert Transform
+Lab10 - Chebyshev and Butterworth filters and some general filtering 
+Others - Project related to Autotuning (in progress) and some other random codes
